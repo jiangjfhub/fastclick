@@ -11,7 +11,7 @@
   ],
   "author": {
     "name": "jiangjf",
-    "email": "jiangjf@163.com"
+    "email": "jiangjf0714@163.com"
   },
   "main": "lib/fastclick.js",
   "repository": {
@@ -24,7 +24,8 @@
     "touch",
     "tap",
     "click",
-    "delay"
+    "delay",
+    "input"
   ],
   "licenses": [
     {
