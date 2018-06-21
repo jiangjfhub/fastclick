@@ -12,7 +12,7 @@
   "author": {
     "name": "jiangjf",
     "email": "jiangjf@163.com"
-  }
+  },
   "main": "lib/fastclick.js",
   "repository": {
     "type": "git",
